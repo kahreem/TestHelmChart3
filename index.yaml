@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-testapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-18T16:56:51.796970753-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 59381aa97c9f05572c39b28bd8ab7c776ec6d0c9a89927e25596d373b1bc4531
+    name: helm-testapp
+    type: application
+    urls:
+    - TestHelmChart3/helm-testapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-18T16:56:51.796394768-05:00"
